@@ -1,0 +1,46 @@
+* {
+    font-family: arial;
+    padding: 0%;
+    margin: 0%;
+}
+
+.navbar nav ul {
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+}
+
+
+.navbar-button a {
+    align-self: flex-end; 
+}
+
+.d {
+ background-color: black;
+}
+
+
+.foot {
+    background-color: green;
+    display: flex;
+    text-align: center;
+}
+
+
+.foot h2{
+    color: rgb(61, 53, 53);
+    margin-left: 100px;
+}
+
+.foot a{
+    text-decoration: none; 
+    color: black;
+    margin-left: 200px;
+}
+
+
+.copy{
+    background-color: 	#DADD98 ;
+    text-align: center;
+}
+

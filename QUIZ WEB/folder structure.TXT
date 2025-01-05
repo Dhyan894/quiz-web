@@ -1,0 +1,27 @@
+QUIZ WEB
+     |
+     |-- 1.HTML(FULL PAGE)
+     |
+     |-- 2.HTML(VIDEOS PAGE)
+           |
+           |--HTML.HTML
+           |
+           |--CSS.HTML
+           |
+           |--JS.HTML
+     |
+     |-- 3.HTML(QUIZ PAGE)
+           |
+           |--GEO.HTML
+           |
+           |--SCI.HTML
+           |
+           |--TECH.HTML
+           |
+           |--MATHS.HTML
+           |
+           |--CA.HTML
+           |
+           |--HISTORY.HTML
+     |
+     |-- 4.HTML(LOGIN PAGE)
